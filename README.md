@@ -23,9 +23,9 @@
 
 <div align="center">
 
-$\color{pink}{\textsf{how&emsp;much&emsp;sorrow&emsp;can&emsp;I&emsp;can&emsp;?&emsp;}}$ &nbsp; <img width="20" height="20" alt="IMG_0011" src="https://github.com/user-attachments/assets/d016a02d-a244-497f-8ccd-e7c14fd192dc">
+$\color{pink}{\textsf{how&emsp;much&emsp;sorrow&emsp;can&emsp;I&emsp;take&emsp;?&emsp;}}$ &nbsp; <img width="20" height="20" alt="IMG_0011" src="https://github.com/user-attachments/assets/d016a02d-a244-497f-8ccd-e7c14fd192dc">
 
-$\color{purple}{\textsf{ah&emsp;,&emsp;the&emsp;thing&emsp;i&emsp;do&emsp;for&emsp;you.}}$ 
+$\color{blue}{\textsf{black&emsp;bird&emsp;on&emsp;my&emsp;shoulder.}}$ 
 
 <br/>
 <br/>
