@@ -25,25 +25,17 @@
 
 $\color{pink}{\textsf{how&emsp;much&emsp;sorrow&emsp;can&emsp;I&emsp;take&emsp;?&emsp;}}$ &nbsp;<img width="39" height="35" alt="image" src="https://github.com/user-attachments/assets/d5edbead-b083-4430-b7be-784fc809f319" />
 
-
 $\color{blue}{\textsf{black&emsp;bird&emsp;on&emsp;my&emsp;shoulder.}}$ 
 
 <br/>
-<br/>
-<br/>
+
+&emsp;<img width="1000" height="75" alt="image" src=https://64.media.tumblr.com/329cad0e305ba6b827bef3374d5cfb42/dfce13cbea97f64b-fa/s250x400/f4f335bf7fda36a79c71620fc6fdc8ff17016920.gif />
+
 <br/>
 
-
-&nbsp;
-&nbsp;
-&nbsp;
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-
-<div align="left">
+<div align="center">
 
 &emsp;&emsp; $\color{pink}{\textsf{ash}}$ &nbsp; $\color{white}{\text{or}}$ &nbsp; $\color{pink}{\text{sorrow}}$ &emsp; $\color{white}{\textsf{𑱗𑱔݃ ݁ᣟ݂}}$&emsp; $\color{pink}{\textsf{17}}$  &emsp;<img width="26" height="25" alt="image" src="https://github.com/user-attachments/assets/10a1ecf0-4c69-409c-9ecc-3cef810e0c7c" /> <br/>
-&nbsp; $\color{pink}{\textsf{any&emsp;prns}}$ &emsp; $\color{pink}{\textsf{but&emsp;mainly&emsp;she&emsp;/&emsp;her&emsp;}}$ <br/> &emsp;&emsp; ${\color{#FF8FAB}always &emsp; c&nbsp;*&nbsp;h &emsp; welcome}$ &emsp; $${\color{#F25278}w2i}$$
+&nbsp; $\color{pink}{\textsf{transfem&emsp;any&emsp;prns}}$ &emsp; $\color{pink}{\textsf{but&emsp;mainly&emsp;she&emsp;/&emsp;her&emsp;}}$
+
+<br/ &emsp;&emsp; ${\color{#FFC5D3}always &emsp; c&nbsp;*&nbsp;h &emsp; welcome}$ &emsp; $${\color{#F25278}w2i}$$
