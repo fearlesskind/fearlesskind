@@ -32,3 +32,18 @@ $\color{blue}{\textsf{black&emsp;bird&emsp;on&emsp;my&emsp;shoulder.}}$
 <br/>
 <br/>
 <br/>
+
+
+&nbsp;
+&nbsp;
+&nbsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+
+<div align="left">
+
+&emsp;&emsp; $\color{pink}{\textsf{ash}}$ &nbsp; $\color{white}{\text{or}}$ &nbsp; $\color{pink}{\text{sorrow}}$ &emsp; $\color{white}{\textsf{Ი ᰍ ݃ ݁ᣟ݂}}$&emsp; $\color{pink}{\textsf{17}}$  &emsp;<img width="20" height="20" alt="IMG_0013" src="https://github.com/user-attachments/assets/4b625948-efd0-4904-bca6-1a36b422305a"><br/>
+&nbsp; $\color{pink}{\textsf{any&emsp;prns}}$ &emsp; $\color{pink}{\textsf{but&emsp;mainly&emsp;she&emsp;/&emsp;her&emsp;}}$ <br/> &emsp;&emsp; ${\color{#FF8FAB}always &emsp; c&nbsp;*&nbsp;h &emsp; welcome}$ &emsp; $${\color{#F25278}w2i}$$
