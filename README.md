@@ -60,9 +60,5 @@ $\small{\textsf{ac : myangelathena on x}}$
 
 &nbsp;
 
-&emsp;
-&emsp;
-&emsp;
-
-&emsp;<img width="1000" height="100" alt="image" src=https://64.media.tumblr.com/e795906162245552dc3f6a7d1c125b49/dfce13cbea97f64b-8e/s540x810/a8bde4db230097663b41c2940b40165be78282a7.gif />
+&emsp;<img width="1000" height="150" alt="image" src=https://64.media.tumblr.com/e795906162245552dc3f6a7d1c125b49/dfce13cbea97f64b-8e/s540x810/a8bde4db230097663b41c2940b40165be78282a7.gif />
 
