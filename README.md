@@ -54,7 +54,15 @@ $\color{blue}{\textsf{black&emsp;bird&emsp;on&emsp;my&emsp;shoulder.}}$
   
 <img width="1000" height="600" alt="image" src="https://cdn.discordapp.com/attachments/1252926875441958942/1546135243583397988/Untitled3_20260906010706.png?ex=6a9eae27&is=6a9d5ca7&hm=571b0d0b832feda569ade2c5f818357c8b7f3fc9f37d64ebcfcdeb75425e5aa6&" />
 
+<div align="center">
+  
+$\small{\textsf{ac : myangelathena on x}}$
+
+&nbsp;
+
 &emsp;
 &emsp;
 &emsp;
+
+&emsp;<img width="1000" height="75" alt="image" src=https://64.media.tumblr.com/e795906162245552dc3f6a7d1c125b49/dfce13cbea97f64b-8e/s540x810/a8bde4db230097663b41c2940b40165be78282a7.gif />
 
