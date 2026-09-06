@@ -1,16 +1,33 @@
-## Hi there 👋
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
 
-<!--
-**fearlesskind/fearlesskind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+![Profile Views](https://komarev.com/ghpvc/?username=fearlesskind&style=flat-square&color=FF8DA1&ffffff&label=here+in+the+garden)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+&nbsp;
+&nbsp;
+
+<div align="center">
+  
+<img width="1000" height="500" alt="image" src="https://cdn.discordapp.com/attachments/1252926875441958942/1546115954495201320/Untitled2_20260906004735.png?ex=6a9e9c30&is=6a9d4ab0&hm=fa915c5c418d3bdc95844cab9505fecc540f96b6b62cfab8a4207c5539b2613d&" />
+
+
+&nbsp;
+&nbsp;
+
+&nbsp;
+
+<div align="center">
+
+$\color{pink}{\textsf{how&emsp;much&emsp;sorrow&emsp;can&emsp;I&emsp;can&emsp;?&emsp;}}$ &nbsp; <img width="20" height="20" alt="IMG_0011" src="https://github.com/user-attachments/assets/d016a02d-a244-497f-8ccd-e7c14fd192dc">
+
+$\color{purple}{\textsf{ah&emsp;,&emsp;the&emsp;thing&emsp;i&emsp;do&emsp;for&emsp;you.}}$ 
+
+<br/>
+<br/>
+<br/>
+<br/>
