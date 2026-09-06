@@ -36,6 +36,24 @@ $\color{blue}{\textsf{black&emsp;bird&emsp;on&emsp;my&emsp;shoulder.}}$
 <div align="center">
 
 &emsp;&emsp; $\color{pink}{\textsf{ash}}$ &nbsp; $\color{white}{\text{or}}$ &nbsp; $\color{pink}{\text{sorrow}}$ &emsp; $\color{white}{\textsf{𑱗𑱔݃ ݁ᣟ݂}}$&emsp; $\color{pink}{\textsf{17}}$  &emsp;<img width="26" height="25" alt="image" src="https://github.com/user-attachments/assets/10a1ecf0-4c69-409c-9ecc-3cef810e0c7c" /> <br/>
-&nbsp; $\color{pink}{\textsf{transfem&emsp;any&emsp;prns}}$ &emsp; $\color{pink}{\textsf{but&emsp;mainly&emsp;she&emsp;/&emsp;her&emsp;}}$
+&nbsp; $\color{pink}{\textsf{transfem&emsp;any&emsp;prns}}$ &emsp; $\color{pink}{\textsf{but&emsp;mainly&emsp;she&emsp;/&emsp;her&emsp;}}$ &emsp;&emsp;
 
-<br/ &emsp;&emsp; ${\color{#FFC5D3}always &emsp; c&nbsp;*&nbsp;h &emsp; welcome}$ &emsp; $${\color{#F25278}w2i}$$
+
+
+<br/>
+<br/>
+
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+
+<div align="center">
+  
+<img width="1000" height="600" alt="image" src="https://cdn.discordapp.com/attachments/1252926875441958942/1546135243583397988/Untitled3_20260906010706.png?ex=6a9eae27&is=6a9d5ca7&hm=571b0d0b832feda569ade2c5f818357c8b7f3fc9f37d64ebcfcdeb75425e5aa6&" />
+
+&emsp;
+&emsp;
+&emsp;
+
