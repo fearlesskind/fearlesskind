@@ -23,7 +23,8 @@
 
 <div align="center">
 
-$\color{pink}{\textsf{how&emsp;much&emsp;sorrow&emsp;can&emsp;I&emsp;take&emsp;?&emsp;}}$ &nbsp; <img width="20" height="20" alt="IMG_0011" src="https://github.com/user-attachments/assets/d016a02d-a244-497f-8ccd-e7c14fd192dc">
+$\color{pink}{\textsf{how&emsp;much&emsp;sorrow&emsp;can&emsp;I&emsp;take&emsp;?&emsp;}}$ &nbsp;<img width="39" height="35" alt="image" src="https://github.com/user-attachments/assets/d5edbead-b083-4430-b7be-784fc809f319" />
+
 
 $\color{blue}{\textsf{black&emsp;bird&emsp;on&emsp;my&emsp;shoulder.}}$ 
 
