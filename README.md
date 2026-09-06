@@ -1,4 +1,4 @@
-&emsp;<img width="1000" height="75" alt="image" src=https://64.media.tumblr.com/ce34ce74b00ff1daaff7b14119c674e0/dfce13cbea97f64b-ce/s640x960/35594029b477dfee9f796b838291743bb3fb3671.png />
+&emsp;<img width="1000" height="85" alt="image" src=https://64.media.tumblr.com/ce34ce74b00ff1daaff7b14119c674e0/dfce13cbea97f64b-ce/s640x960/35594029b477dfee9f796b838291743bb3fb3671.png />
 &emsp;
 &emsp;
 &emsp;
@@ -30,7 +30,7 @@ $\color{blue}{\textsf{black&emsp;bird&emsp;on&emsp;my&emsp;shoulder.}}$
 
 <br/>
 
-&emsp;<img width="1000" height="75" alt="image" src=https://64.media.tumblr.com/329cad0e305ba6b827bef3374d5cfb42/dfce13cbea97f64b-fa/s250x400/f4f335bf7fda36a79c71620fc6fdc8ff17016920.gif />
+&emsp;<img width="1000" height="30" alt="image" src=https://64.media.tumblr.com/329cad0e305ba6b827bef3374d5cfb42/dfce13cbea97f64b-fa/s250x400/f4f335bf7fda36a79c71620fc6fdc8ff17016920.gif />
 
 <br/>
 
@@ -64,5 +64,5 @@ $\small{\textsf{ac : myangelathena on x}}$
 &emsp;
 &emsp;
 
-&emsp;<img width="1000" height="75" alt="image" src=https://64.media.tumblr.com/e795906162245552dc3f6a7d1c125b49/dfce13cbea97f64b-8e/s540x810/a8bde4db230097663b41c2940b40165be78282a7.gif />
+&emsp;<img width="1000" height="100" alt="image" src=https://64.media.tumblr.com/e795906162245552dc3f6a7d1c125b49/dfce13cbea97f64b-8e/s540x810/a8bde4db230097663b41c2940b40165be78282a7.gif />
 
