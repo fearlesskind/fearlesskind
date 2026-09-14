@@ -14,7 +14,7 @@
 
 <div align="center">
   
-<img width="1000" height="500" alt="image" src="https://cdn.discordapp.com/attachments/1252926875441958942/1546115954495201320/Untitled2_20260906004735.png?ex=6a9e9c30&is=6a9d4ab0&hm=fa915c5c418d3bdc95844cab9505fecc540f96b6b62cfab8a4207c5539b2613d&" />
+<img width="1000" height="500" alt="image" src="https://cdn.discordapp.com/attachments/1252926875441958942/1546115954495201320/Untitled2_20260906004735.png?ex=6aa92830&is=6aa7d6b0&hm=4d50743d14200a0f08521930d44ed02483301e011f6462b089f5dacb612663af&" />
 
 &nbsp;
 &nbsp;
@@ -49,7 +49,7 @@ $\color{white}{\textsf{black&emsp;bird&emsp;on&emsp;my&emsp;shoulder.}}$
 
 <div align="center">
   
-<img width="1000" height="600" alt="image" src="https://cdn.discordapp.com/attachments/1252926875441958942/1546135243583397988/Untitled3_20260906010706.png?ex=6a9eae27&is=6a9d5ca7&hm=571b0d0b832feda569ade2c5f818357c8b7f3fc9f37d64ebcfcdeb75425e5aa6&" />
+<img width="1000" height="600" alt="image" src="https://cdn.discordapp.com/attachments/1252926875441958942/1546135243583397988/Untitled3_20260906010706.png?ex=6aa93a27&is=6aa7e8a7&hm=513be1fffb8cf9496e9fe651e1f4ce9d7e761fcd990a67e3d9f51c88c9773a86&" />
 
 &emsp;
 &emsp;
