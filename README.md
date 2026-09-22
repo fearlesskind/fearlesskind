@@ -7,14 +7,14 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=fearlesskind&style=flat-square&color=FF8DA1&ffffff&label=here+in+the+garden)
+![Profile Views](https://komarev.com/ghpvc/?username=fearlesskind&style=flat-square&color=FF8DA1&ffffff&label=here+in+the+garden+..)
 
 &nbsp;
 &nbsp;
 
 <div align="center">
   
-<img width="1000" height="500" alt="image" src="https://cdn.discordapp.com/attachments/1252926875441958942/1546115954495201320/Untitled2_20260906004735.png?ex=6aa92830&is=6aa7d6b0&hm=4d50743d14200a0f08521930d44ed02483301e011f6462b089f5dacb612663af&" />
+<img width="1000" height="500" alt="image" src="https://cdn.phototourl.com/free/2026-09-22-db2b426f-b2fd-40a9-844a-e0aef2a69834.png" />
 
 &nbsp;
 &nbsp;
@@ -49,7 +49,7 @@ $\color{white}{\textsf{black&emsp;bird&emsp;on&emsp;my&emsp;shoulder.}}$
 
 <div align="center">
   
-<img width="1000" height="600" alt="image" src="https://cdn.discordapp.com/attachments/1252926875441958942/1546135243583397988/Untitled3_20260906010706.png?ex=6aa93a27&is=6aa7e8a7&hm=513be1fffb8cf9496e9fe651e1f4ce9d7e761fcd990a67e3d9f51c88c9773a86&" />
+<img width="1000" height="600" alt="image" src="https://cdn.phototourl.com/free/2026-09-22-37ac0701-d7ee-4416-9ab6-e62f849b36ff.png" />
 
 &emsp;
 &emsp;
