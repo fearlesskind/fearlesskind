@@ -14,7 +14,7 @@
 
 <div align="center">
   
-<img width="1000" height="500" alt="image" src="https://cdn.phototourl.com/free/2026-09-22-db2b426f-b2fd-40a9-844a-e0aef2a69834.png" />
+<img width="1000" height="500" alt="image" src="https://cdn.discordapp.com/attachments/1479120801621082193/1558069307743797388/Untitled2_20260906004735.png?ex=6aca189e&is=6ac8c71e&hm=aa45c5ed2d2131dd5531e6db200fce66bb6fa45d9aef03abe01a71d622d07bbe&" />
 
 &nbsp;
 &nbsp;
@@ -49,7 +49,7 @@ $\color{white}{\textsf{black&emsp;bird&emsp;on&emsp;my&emsp;shoulder.}}$
 
 <div align="center">
   
-<img width="1000" height="600" alt="image" src="https://cdn.phototourl.com/free/2026-09-22-37ac0701-d7ee-4416-9ab6-e62f849b36ff.png" />
+<img width="1000" height="600" alt="image" src="https://cdn.discordapp.com/attachments/1479120801621082193/1558069318426824704/Untitled3_20260906010706.png?ex=6aca18a1&is=6ac8c721&hm=e9265af8637ffb1df2de9811bb8d2fc3c4d8c47d46b6f510326795dbac315e0e&" />
 
 &emsp;
 &emsp;
